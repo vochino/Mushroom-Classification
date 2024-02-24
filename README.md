@@ -1,2 +1,2 @@
 # Mushroom-Classification
-Phân tích và dự đoán nấm độc hay không độc 
+Phân tích, xử lý sơ bộ và dự đoán phân loại bằng mô hình học máy xây dựng sẵn
